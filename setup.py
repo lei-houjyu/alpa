@@ -90,6 +90,8 @@ install_require_list = [
     "pulp>=2.6.0",
     "numpy>=1.20",
     "numba",
+    "transformers",
+    "huggingface_hub"
 ]
 
 dev_require_list = ["yapf==0.32.0", "pylint==2.14.0", "cmake", "pybind11"]
